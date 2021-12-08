@@ -1,0 +1,70 @@
+{
+  "Jobs": [
+    {
+      "id": 1,
+      "title": "Carpenter",
+      "company": "Full time Monday-Saturday 9:00 am to 5:00 pm",
+      "location": "Roseville, CA",
+      "discription": "We offer some of the most convenient jobs in our industry. We understand people’s situation and that is why we have a flexible schedule for all workers. In our industry the carpenter has to know how to format and repair building’s framework. We are more okay with experienced individuals applying but since nobody learns from birth we take on the unskilled and give them an opportunity to learn and adapt in the industry.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    },
+    {
+      "id": 2,
+      "title": "Electrician",
+      "company": "Part time Monday-Wednesday 8:00 am to 5:00 pm",
+      "location": "Pennsylvania",
+      "discription": "We only offer jobs to those that are licensed and experienced. We predominantly take on skilled people with years of experience. We only have part time jobs that include installing and inspecting wiring and lighting systems. If you are unable to provide a certification from a technical licensing board, then you must attend our school and must attain the certification to be an electrician employee in our industry.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    },
+    {
+      "id": 3,
+      "title": "Tile contractor",
+      "company": "Part time Monday-Wednesday 10:00 am to 6:00 pm",
+      "location": "New York",
+      "discription": "we need people who are able to install tiles on floors, walls, as well as ceilings. You must be willing to adapt and embrace tasks like lifting heavy objects and also have to bend down to work. These are what the job entails and one should anticipate these factors as part of the job. We mostly accept experienced people and inexperienced workers are also welcome to come and learn.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    },
+    {
+      "id": 4,
+      "title": "Construction manager",
+      "company": "Full time Monday-Saturday 8:00 am to 6:00 pm",
+      "location": "Pennsylvania",
+      "discription": "Construction managers coordinate and supervise the building of residential, commercial, industrial, and civic structures—from roads to bridges, and office buildings to factories. Depending on the size and scope of the project, a construction manager may work in conjunction with other managers, focusing on a specific element of the project. In all cases, they are a part of the construction process, from the initial planning and foundational work through to project completion, managing timetables and costs along the way.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    },
+    {
+      "id": 5,
+      "title": "Civil Engineer",
+      "company": "Full time Monday-Saturday 8:00 am to 6:00 pm",
+      "location": "New York",
+      "discription": "Civil Engineers are by and large worried about the plausibility of the proposed development process. They investigate factors, for example, soil arrangement and unofficial laws to decide if projects meet the ordered and general wellbeing necessities.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    },
+    {
+      "id": 6,
+      "title": "Project Manager",
+      "company": "Full time Monday-Saturday 8:00 am to 6:00 pm",
+      "location": "New York",
+      "discription": "Project Managers are liable for planning and sorting out a whole development project. Contingent upon the size of the venture, there can either be one undertaking supervisor administering the whole building site or numerous chiefs that are each answerable for a particular piece of the task.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    }
+   
+  ], 
+  "Forms": [
+    {
+      "id": 8,
+      "title": "Work from Home CSR: UP TO $13/HR",
+      "company": "Call Experts",
+      "location": "Pennsylvania",
+      "discription": " Project Managers are liable for planning and sorting out a whole development project. Contingent upon the size of the venture, there can either be one undertaking supervisor administering the whole building site or numerous chiefs that are each answerable for a particular piece of the task.",
+      "contact": "123xxxxxx",
+      "address": "7777 South Lafayette St. Lexington, NC 27292"
+    }
+  ]
+}
