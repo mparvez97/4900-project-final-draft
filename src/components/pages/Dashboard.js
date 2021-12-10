@@ -10,19 +10,28 @@ function Dashboard() {
     const [Form, setForm] = useState([]);
     const [Contracts, setContracts] = useState([])
 
-    useEffect(() => {
+  useEffect(() => {
         const database = ref(firedb, "Forms");
-        onValue(database, (snapshot) => {
+
+        const order = orderByChild("id");
+        const limit = limitToLast(25);
+        const data = query(database, order, limit);
+
+        onValue(data, (snapshot) => {
             setForm(snapshot.val());
         })
     }, []);
     useEffect(() => {
         const database = ref(firedb, "Contracts");
-        onValue(database, (snapshot) => {
+        const order = orderByChild("id");
+        const limit = limitToLast(6);
+        const data = query(database, order, limit);
+
+        onValue(data, (snapshot) => {
             setContracts(snapshot.val());
         })
     }, []);
-
+    
     return (
         <div>
             <div id="jobs-container">
